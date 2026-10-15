@@ -1,0 +1,11 @@
+.git
+.gitignore
+.gemini
+.venv
+.pytest_cache
+__pycache__
+*.pyc
+*.log
+gemini_ps.txt
+.env*
+tests

@@ -1,0 +1,21 @@
+# Python / uv
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.pytest_cache/
+dist/
+build/
+*.egg-info/
+
+# Environment & Secrets
+.env
+.env.*
+*.secret
+*.key
+
+# Local tools & logs
+.gemini/
+*.log
+gemini_ps.txt
+.DS_Store
